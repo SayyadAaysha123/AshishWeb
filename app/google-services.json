@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239446054764",
+    "project_id": "ambaniroyalcricket",
+    "storage_bucket": "ambaniroyalcricket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239446054764:android:16f652826bac4e0a998549",
+        "android_client_info": {
+          "package_name": "com.royalcricket.predictions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239446054764-spt8ttts32qbva2if7sia16uatjtbou4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPRdA6pO272G7zjGjyGfW8c7o2D5WgAHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239446054764-spt8ttts32qbva2if7sia16uatjtbou4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
